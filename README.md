@@ -1,6 +1,4 @@
 # I am Ashutosh kumar
-Ashutosh kumar Portfolio
-
 - 👋 Hi, I’m @Ashutoshyadav276 
 - 💻 I’m currently working on php.
 - 👀 I’m interested in backend .
